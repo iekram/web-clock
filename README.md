@@ -1,2 +1,2 @@
 # web-clock
-[here is the demoe](https://iekram.github.io/web-clock/)
+[here is the demo](https://iekram.github.io/web-clock/)
